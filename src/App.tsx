@@ -1,4 +1,4 @@
-import { Bird, Is, Word } from "./ui";
+import { Bird, Is, Word } from "@/ui";
 
 function App() {
   return (
